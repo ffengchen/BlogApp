@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://b7e26ffe43f57f:091a4645@us-cdbr-east-02.cleardb.com/heroku_596857672e1ec53?reconnect=true&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT
-    username: root
-    password: 12345678
+    username: b7e26ffe43f57f
+    password: 091a4645
   jpa:
     hibernate:
       ddl-auto: update
